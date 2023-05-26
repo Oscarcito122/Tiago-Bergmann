@@ -6,8 +6,10 @@ Hola 👋, soy Tiago Fullstack Developer de Mendoza, Argentina con ganas de trab
 ✉️ oscarbergmann1106@gmail.com
 
 Conecta conmigo:
+
 https://www.linkedin.com/in/tiago-bergmann-0576b7264/
 
 🚀 Idiomas y herramientas:
+
 Javascript | HTML5 | CSS | Boostrap | Node.js | React | Redux | PostgreSQL | MySQL
            
